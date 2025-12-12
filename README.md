@@ -5,3 +5,5 @@
   (https://leetcode.com/problems/second-highest-salary/)
 3. [Nth highest Salary]
   (https://leetcode.com/problems/nth-highest-salary/)
+4. [Rank Scores]
+5. (https://leetcode.com/problems/rank-scores/)
