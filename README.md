@@ -7,3 +7,6 @@
   (https://leetcode.com/problems/nth-highest-salary/)
 4. [Rank Scores]
   (https://leetcode.com/problems/rank-scores/)
+5. [Conscutive numbers]
+  (https://leetcode.com/problems/consecutive-numbers/)
+   
