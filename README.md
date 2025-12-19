@@ -9,4 +9,6 @@
   (https://leetcode.com/problems/rank-scores/)
 5. [Conscutive numbers]
   (https://leetcode.com/problems/consecutive-numbers/)
+6. [Employee earning more than their managers]
+  (https://leetcode.com/problems/employees-earning-more-than-their-managers/)
    
