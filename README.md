@@ -11,4 +11,5 @@
   (https://leetcode.com/problems/consecutive-numbers/)
 6. [Employee earning more than their managers]
   (https://leetcode.com/problems/employees-earning-more-than-their-managers/)
-   
+7. [Duplicate Emails]
+  (https://leetcode.com/problems/duplicate-emails/)  
